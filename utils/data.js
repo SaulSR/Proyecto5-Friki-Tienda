@@ -228,7 +228,7 @@ const data = {
     },
     {
       name: 'Iron Man Nano Gauntlet',
-      slug: '',
+      slug: 'IronMan-NanoGauntlet',
       category: 'Collectibles',
       image: '/images/colec7.jpg',
       price: 3200,
@@ -252,7 +252,7 @@ const data = {
     },
     {
       name: 'Age Of Ultron #1 (2013).',
-      slug: 'Age-Of-Ultron-2013|Comic',
+      slug: 'Age-Of-Ultron-2013',
       category: 'Comics',
       image: '/images/Comic1.jpg',
       price: 1494,
@@ -265,7 +265,7 @@ const data = {
     },
     {
       name: 'Avengers #1 (2018).',
-      slug: 'Avengers(2018) #1|Comic',
+      slug: 'Avengers-2018',
       category: 'Comics',
       image: '/images/Comic2.jpg',
       price: 1200,
@@ -278,7 +278,7 @@ const data = {
     },
     {
       name: 'Infinity Gauntlet (1991)',
-      slug: 'Infinity Gauntlet (1991) #1|Comic',
+      slug: 'Infinity-Gauntlet-1991',
       category: 'Comics',
       image: '/images/Comic3.jpg',
       price: 1200,
@@ -290,8 +290,8 @@ const data = {
         'One of the biggest events ever to hit the Marvel Universe! For Thanos, the Infinity Gauntlet was the ultimate prize to be coveted above all else.',
     },
     {
-      name: 'Vision (2015) #1',
-      slug: 'Vision (2015) #1|Comic',
+      name: 'Vision (2015)',
+      slug: 'Vision-2015',
       category: 'Comics',
       image: '/images/Comic4.jpg',
       price: 500,
