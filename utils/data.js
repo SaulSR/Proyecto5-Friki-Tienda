@@ -259,7 +259,7 @@ const data = {
       brand: 'Marvel Comics',
       rating: 4.5,
       numReviews: 378,
-      countInStock: 17,
+      countInStock: 8,
       description:
         'For years the heroes of the Marvel Universe have lived in fear that the artificial intelligence known as Ultron would one day evolve to fulfill its desire to wipe out all organic life and take over the Earth - that day has arrived. ',
     },

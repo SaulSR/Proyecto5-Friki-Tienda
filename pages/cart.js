@@ -74,7 +74,7 @@ export default function CartScreen() {
               <li>
                 <button
                   onClick={() => router.push('/shipping')}
-                  className="primary-button w-full"
+                  className="primary-button w-full text-white"
                 >
                   Check Out
                 </button>
