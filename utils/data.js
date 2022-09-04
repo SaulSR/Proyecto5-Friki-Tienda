@@ -9,7 +9,7 @@ const data = {
       brand: 'Marvel',
       rating: 3.0,
       numReviews: 52,
-      countInStock: 9,
+      countInStock: 10,
       description: 'Retro Marvel Shirts for Men, Women, Boys, and Girls',
     },
     {
@@ -57,7 +57,7 @@ const data = {
       brand: 'Marvel',
       rating: 3.9,
       numReviews: 39,
-      countInStock: 13,
+      countInStock: 8,
       description: 'Officially Licensed Marvel Tee Shirt',
     },
     {
