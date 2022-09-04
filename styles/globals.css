@@ -26,3 +26,15 @@ a {
 .primary-button {
   @apply rounded bg-purple-500 py-2 px-4 shadow outline-none hover:bg-green-400 active:bg-green-300;
 }
+.tertiary-button {
+  @apply rounded-full bg-rose-500 py-1 px-4 shadow outline-none hover:bg-rose-400 active:bg-green-300;
+}
+#Login {
+  padding-top: 20px;
+}
+
+input,
+select,
+textarea {
+  @apply rounded-full border p-2 outline-none ring-indigo-300 focus:ring;
+}
