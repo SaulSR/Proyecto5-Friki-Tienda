@@ -97,7 +97,7 @@ export default function Layout({ title, children }) {
         </header>
         <main className="container m-auto mt-4 px-4">{children}</main>
         <footer className="flex h-10 justify-center items-center shadow-inner">
-          <p>Copyrigth © | 2022 Friki-Tienda </p>
+          <p>Copyrigth © | 2022 Friki-Store </p>
         </footer>
       </div>
     </>
